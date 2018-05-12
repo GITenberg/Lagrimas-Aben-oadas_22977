@@ -1,0 +1,45 @@
+_repo: Lagrimas-Aben-oadas_22977
+_version: 0.1.0
+alternative_title: Lágrimas Abençoadas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+edition_note: Quarta edição
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2007-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22977'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Manuela Alves e Pedro Saborano. (produced from scanned
+  images of public domain material from Google Book Search)
+publication_note: "Lisboa:\r\nParceria Antonio Maria Pereira\r\nLivraria editora e\
+  \ Oficinas Typographica e de Encadernação Movidas a electricidade\r\nRua Augusta--44\
+  \ a 54\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese fiction'
+title: Lagrimas Abençoadas
+url: http://www.gutenberg.org/ebooks/22977
